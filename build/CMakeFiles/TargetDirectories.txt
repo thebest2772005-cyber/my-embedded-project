@@ -1,3 +1,0 @@
-/home/kristo/practice/practice_cmake/build/CMakeFiles/main.dir
-/home/kristo/practice/practice_cmake/build/CMakeFiles/edit_cache.dir
-/home/kristo/practice/practice_cmake/build/CMakeFiles/rebuild_cache.dir
