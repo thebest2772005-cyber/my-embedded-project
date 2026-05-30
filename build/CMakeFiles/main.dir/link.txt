@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/main.dir/link.d CMakeFiles/main.dir/hello.c.o CMakeFiles/main.dir/my_lib/hellofunc.c.o -o main

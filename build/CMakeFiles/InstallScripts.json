@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/kristo/practice/practice_cmake/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
